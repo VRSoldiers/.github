@@ -1,7 +1,4 @@
-# vrsoldiers-web-1.0
 # Home of VR Soldiers
-
-# VR Environments
 
 Welcome to the official GitHub repository for VR Soldiers Environments, where cutting-edge technology meets military training and rehabilitation. Our mission is to provide the most epic VR environments in the world, allowing soldiers to train in 3D-mapped virtual reality landscapes before they embark on actual operations.
 
